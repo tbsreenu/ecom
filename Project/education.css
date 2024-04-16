@@ -1,0 +1,179 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 16px;
+    color: #242424;
+  }
+  .container {
+    width: 1300px;
+    margin: 0px auto;
+  }
+  .main-section {
+    width: 100%;
+    float: left;
+    padding: 70px 0px 70px 0px;
+  }
+  .heading {
+    font-size: 28px;
+    font-weight: 500;
+    border-bottom: 1px solid yellow;
+    margin-bottom: 20px;
+    color: #46b7c1;
+  }
+
+  .header {
+	background: green;
+	padding: 6px;
+}
+.header b {
+	background: #fff;
+	color: red;
+	padding:10px;
+	font-size: 20px;
+}
+.header marquee {
+	font-size:20px;
+	color:black;
+	width: 80%;
+}
+
+.logo {
+	height:60px;
+}
+nav {
+	float: right;
+	padding:25px 0px;
+}
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size:18px;
+	padding:2px 10px;
+	font-weight:500;
+}
+
+.slider img{
+    width: 100%;
+}
+
+
+.event {
+    width: 30%;
+    margin-right: 1%;
+    float: left;
+    background-color:linen;
+    padding: 10px;
+  }
+  .event .heading {
+    border-bottom: 1px solid black;
+    padding: 5px;
+    color: #fff;
+    background:red;
+    text-align: center;
+  }
+  .event ul li {
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    list-style: none;
+  }
+  .event-date {
+    background: green;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px 12px;
+    margin-right: 10px;
+  }
+  
+.testimonial {
+	width: 30.5%;
+	float: left;
+	margin-right: 2.5%;
+}
+
+.testimonial-text {
+	background: #0055a40f;
+	padding: 20px;
+	line-height: 35px;
+	border-radius: 10px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #0055a4;
+  background-color: palevioletred;
+}
+
+.testimonial-detail {
+	float: left;
+	margin-top: 10px;
+}
+
+.testimonial-img {
+	float: left;
+}
+
+.testimonial-name {
+	margin-left: 10px;
+	float: left;
+}
+
+.testimonial-name h5 {
+	font-size: 18px;
+	margin-top: 8px;
+}
+
+  .about-us div {
+    width: 45%;
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+    background: lightcoral;
+  }
+  .about-us h4 {
+    font-size: 22px;
+  }
+  .about-us p {
+    line-height: 42px;
+  }
+  .about-us img {
+    width: 40%;
+    float: left;
+  }
+  .gallery img {
+    width: 24%;
+  }
+
+.footer {
+	background-color:lightgreen;
+	padding: 40px 0px;
+	width: 100%;
+	float: left;
+}
+
+.footer-logo {
+	height: 70px;
+	width: auto;
+}
+
+.footer-sect {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 16px;
+}
+
+.footer-sect a {
+	color: #202020;
+	margin-left: 10px;
+	text-decoration: none;
+}
+
+
+  
+  

@@ -1,0 +1,65 @@
+body{
+    direction: left;
+}
+
+.flex-container{
+    
+    display:flex;
+    flex-wrap: wrap;
+    width: 450px;
+    height: 500px;
+    background-color: lightgoldenrodyellow;
+    border: 2px; 
+    justify-content: center;
+    padding-top: 45px;
+    
+}
+
+.flexbox {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+    line-height: 95px;
+  
+}
+  #c1{
+    background-color: red;
+  }
+
+  #c2{
+    background-color: blue;
+  }
+ 
+  #c3{
+    background-color: yellow;
+  }
+
+  #c4{
+    background-color: blueviolet;
+  }
+
+  #c5{
+    background-color: green;
+  }
+
+  #c6{
+    background-color: aqua;
+  }
+
+  #c7{
+    background-color:gray;
+  }
+
+  #c8{
+    background-color: bisque;
+  }
+ 
+  #c9{
+    background-color: palevioletred;
+  }
+
+
+
+
